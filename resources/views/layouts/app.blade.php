@@ -42,6 +42,7 @@
 
     <footer>
         <p>© 2026 Portal Informasi Kampus | Quis Seila Istifai</p>
+        <br>
     </footer>
 
 </body>
